@@ -12,8 +12,8 @@ A simple bash script inspired by [flameshot-s3-uploader](https://github.com/notm
 ## Install
 
 1. `git clone https://github.com/SyedAhkam/flameshot-tixte.git`
-
 2. `cp flameshot-tixte.sh /usr/local/bin/flameshot-tixte`
+3. `chmod +x /usr/local/bin/flameshot-tixte`
 
 ## Usage
 
