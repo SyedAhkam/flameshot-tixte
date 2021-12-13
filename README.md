@@ -8,6 +8,7 @@ A simple bash script inspired by [flameshot-s3-uploader](https://github.com/notm
 - curl
 - xclip
 - jq
+- notify-send
 
 ## Install
 
